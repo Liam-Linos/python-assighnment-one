@@ -1,0 +1,1 @@
+This file contains the source code for an assignment where I was needed to make a simple Python program that asks the user to input two numbers and a mathematical operation and Perform the operation based on the user's input and print the result
