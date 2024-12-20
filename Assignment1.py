@@ -23,6 +23,5 @@ def calculate():
     else:
         print("Invalid operation. Please enter one of +, -, *, /.")
 
-# Main program
 if __name__ == "__main__":
     calculate()
